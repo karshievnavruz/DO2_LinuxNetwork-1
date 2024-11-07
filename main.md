@@ -37,13 +37,20 @@
 
 
 **Minimum and maximum host in the network 122.167.38.4 with the following masks:**
+
 `/8:`
 ![img](rasim/1.5.png)
+
 `11111111.11111111.00000000.00000000:`
+
 ![img](rasim/1.4.png)
+
 `255.255.254.0:`
+
 ![img](rasim/1.4.png)
+
 `/4:`
+
 ![img](rasim/1.4.png)
 
 ### 1.2. localhost
@@ -95,9 +102,10 @@ Tasnif:
 
 ## 2-qism. Ikki qurilma o'rtasida statik marshrutlash.
 
-
 **Ikkita virtual mashina (keyingi o‘rinlarda -- ws1 va ws2)ni ishga tushirish**
+
 ![img](rasim/2.0.png)
+
 ip a buyrug‘i yordamida mavjud tarmoq interfeyslarini ko‘rish
 ![img](rasim/2.1.png)
 
@@ -114,21 +122,28 @@ netplan  o‘zgartirish
 ![img](rasim/2.3.png)
 
 O'zgarishlarni saqlash
+
 ![img](rasim/2.4.png)
+
 saqlangandan keyin
+
 ![img](rasim/2.5.png)
 
 ws2:
 
 netplan  o‘zgartirish
+
 ![img](rasim/2.6.png)
 
 O'zgarishlarni saqlash
+
 ![img](rasim/2.7.png)
+
 saqlangandan keyin
+
 ![img](rasim/2.8.png)
 
-![img](rasim/2.0.png)
+![img](rasim/2.9.png)
 
 
 ## 3-qism. iperf3 utilitasi
