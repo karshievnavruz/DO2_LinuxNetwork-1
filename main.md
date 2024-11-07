@@ -39,6 +39,7 @@
 **Minimum and maximum host in the network 122.167.38.4 with the following masks:**
 
 `/8:`
+
 ![img](rasim/1.5.png)
 
 `11111111.11111111.00000000.00000000:`
